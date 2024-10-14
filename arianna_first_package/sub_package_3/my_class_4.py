@@ -35,6 +35,6 @@ class MyClass4:
         --------
             >>> my_object = MyClass4(a='Arianna')
             >>> my_object.greeting()
-            'Arianna says hello to the world!'
+            Arianna says hello to the world!
         """
         print(f"{self.a} says hello to the world!")
