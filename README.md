@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/github/license/AriannaBonazza/arianna-first-package)](https://github.com/AriannaBonazza/arianna-first-package/blob/main/LICENSE)
 [![Code Coverage](https://codecov.io/gh/AriannaBonazza/arianna-first-package/branch/main/graphs/badge.svg)](https://codecov.io/gh/AriannaBonazza/arianna-first-package/tree/main)
 
-Arianna's first package is a simple python package for leaarning puropses.
+Arianna's first package is a simple Python package for learning puropses.
 
 
 - Free software: MIT license
