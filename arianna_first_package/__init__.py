@@ -2,7 +2,7 @@
 
 __author__ = """Arianna Bonazza"""
 __email__ = 'ariannabonazza28@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.2.0'
 
 
 from arianna_first_package.sub_package_1.my_class_1 import MyClass1
