@@ -38,3 +38,4 @@ class MyClass4:
             Arianna says hello to the world!
         """
         print(f"{self.a} says hello to the world!")
+        return
