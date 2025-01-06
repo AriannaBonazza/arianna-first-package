@@ -16,7 +16,7 @@ Arianna's first package is a simple Python package for learning puropses.
 
 ## Features
 
-- TODO
+- TO DO
 
 ## Credits
 
