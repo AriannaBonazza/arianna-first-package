@@ -20,7 +20,7 @@ Arianna's first package is a simple Python package for learning puropses.
 
 ## Credits
 
-This package was created with [Cookiecutter][CC] and the [Package Helper 3][PH3] project template during my stage at Swapcard.
+This package was created with [Cookiecutter][CC] and the [Package Helper 3][PH3] project template during my internship at Swapcard.
 
 [CC]: https://github.com/audreyr/cookiecutter
 [PH3]: https://balouf.github.io/package-helper-3/
